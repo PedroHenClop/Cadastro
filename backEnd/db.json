@@ -1,0 +1,46 @@
+{
+  "user":[{
+  "id":1,
+  "name": "Crispim Luiz",
+  "email": "Crispimluiz@gmail.com"
+  }, { 
+  "id": 2,
+  "name": "Tônico",
+  "email": "tonico@gmail.com"
+  }, {
+      
+  "id":3,
+  "name": "vilda aparecida ",
+  "email": "vildaparecida@gmail.com"
+  }, { 
+  "id": 4,
+  "name": "Pedrão",
+  "email": "pedrãoempreendimentos@gmail.com"
+  }, {
+          
+  "id":5,
+  "name": "guilherme Araujo",
+  "email": "Araujo@gmail.com"
+  }, { 
+  "id": 6,
+  "name": "antony",
+  "email": "Antony@gmail.com"
+  }, {
+              
+  "id":7,
+  "name": "bruno gay",
+  "email": "brunogay@gmail.com"
+  }, { 
+  "id": 8,
+  "name": "josé rico",
+  "email": "josérico@gmail.com"
+  }, {
+  "id":9,
+  "name": "julialinda",
+  "email": "julialinda@gmail.com"
+  }, { 
+  "id": 10,
+  "name": "javascript",
+  "email": "melhorprograma@gmail.com"
+  }]
+}

@@ -1,0 +1,34 @@
+{
+    "user":[{
+        "id": 1,
+        "name": "Pedrão",
+        "email": "pedrochok10@hotmail.com"
+
+    }, {
+        "id": 2,
+        "name": "Rapadura é doce mas não é mole",
+        "email": "rapaduraduramole@hotmail.com"
+    
+
+
+}, {
+    
+        "id": 3,
+        "name": "Carlos",
+        "email": "Carlinhospvp@hotmail.com"
+    }, {
+
+
+         
+         "id": 4,
+            "name": "Edin",
+            "email": "edinebrenda2019@hotmail.com"
+         }, {
+
+         
+                        "id": 5,
+                        "name": "Lucas Oliveira",
+                        "email": "lucasoliveira1@hotmail.com"
+                    }]
+
+                }
